@@ -86,12 +86,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zulacoin/bitcore-lib-zula.git"
+    "url": "https://github.com/zuladev/bitcore-lib-zula.git"
   },
   "bugs": {
-    "url": "https://github.com/zulacoin/bitcore-lib-zula/issues"
+    "url": "https://github.com/zuladev/bitcore-lib-zula/issues"
   },
-  "homepage": "https://github.com/zulacoin/bitcore-lib-zula",
+  "homepage": "https://github.com/zuladev/bitcore-lib-zula",
   "browser": {
     "request": "browser-request"
   },
@@ -106,7 +106,7 @@
     "x11-hash-js": "^1.0.0"
   },
   "devDependencies": {
-    "bitcore-build-zula": "zulacoin/bitcore-build-zula",
+    "bitcore-build-zula": "zuladev/bitcore-build-zula",
     "browserify": "latest",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",

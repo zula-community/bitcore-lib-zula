@@ -2,7 +2,7 @@
   "name": "bitcore-lib-zula",
   "main": "./bitcore-lib-zula.min.js",
   "version": "0.15.2",
-  "homepage": "https://github.com/zulacoin/bitcore-lib-zula",
+  "homepage": "https://github.com/zuladev/bitcore-lib-zula",
   "authors": [
     "Zula", "BitPay, Inc."
   ],
